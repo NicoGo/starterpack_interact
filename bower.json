@@ -1,0 +1,21 @@
+{
+  "name": "starter_interact",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+
+  "homepage": "",
+  "private": true,
+  "repository" : "https://github.com/Loic57/starterpack_interact",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}
